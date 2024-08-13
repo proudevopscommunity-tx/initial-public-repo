@@ -9,4 +9,11 @@ hello world!
 Changes from remote
 # Git is so goood
 # Happy for being here
+<<<<<<< HEAD
 Very impressive
+=======
+yes
+no
+okay
+good
+>>>>>>> 6b86df4 (okay)
